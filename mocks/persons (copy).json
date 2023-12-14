@@ -1,0 +1,206 @@
+[
+  {
+    "id": "001",
+    "name": "Alice",
+    "surname": "Johnson",
+    "duty_counter": 5,
+    "holiday_duty_counter": 1,
+    "unit": {
+      "id": "f8e6a3d9-73c2-4e42-bd5b-87625d7cb8e1"
+    },
+    "available_duty_types": [
+      {
+        "id": "duty_001",
+        "name": "Full-time"
+      },
+      {
+        "id": "duty_002",
+        "name": "Part-time"
+      }
+    ]
+  },
+  {
+    "id": "002",
+    "name": "Bob",
+    "surname": "Smith",
+    "duty_counter": 3,
+    "holiday_duty_counter": 2,
+    "unit": {
+      "id": "f8e6a3d9-73c2-4e42-bd5b-87625d7cb8e1"
+    },
+    "available_duty_types": [
+      {
+        "id": "duty_001",
+        "name": "Full-time"
+      },
+      {
+        "id": "duty_002",
+        "name": "Part-time"
+      },
+      {
+        "id": "duty_003",
+        "name": "Contractual"
+      }
+    ]
+  },
+  {
+    "id": "003",
+    "name": "Charlie",
+    "surname": "Brown",
+    "duty_counter": 8,
+    "holiday_duty_counter": 1,
+    "unit": {
+      "id": "f8e6a3d9-73c2-4e42-bd5b-87625d7cb8e1"
+    },
+    "available_duty_types": [
+      {
+        "id": "duty_001",
+        "name": "Full-time"
+      },
+      {
+        "id": "duty_003",
+        "name": "Contractual"
+      }
+    ]
+  },
+  {
+    "id": "004",
+    "name": "David",
+    "surname": "Lee",
+    "duty_counter": 6,
+    "holiday_duty_counter": 3,
+    "unit": {
+      "id": "93d2bb15-4ae4-4e12-9270-046e2c875342"
+    },
+    "available_duty_types": [
+      {
+        "id": "duty_001",
+        "name": "Full-time"
+      },
+      {
+        "id": "duty_002",
+        "name": "Part-time"
+      }
+    ]
+  },
+  {
+    "id": "005",
+    "name": "Eva",
+    "surname": "Garcia",
+    "duty_counter": 7,
+    "holiday_duty_counter": 0,
+    "unit": {
+      "id": "93d2bb15-4ae4-4e12-9270-046e2c875342"
+    },
+    "available_duty_types": [
+      {
+        "id": "duty_001",
+        "name": "Full-time"
+      },
+      {
+        "id": "duty_003",
+        "name": "Contractual"
+      }
+    ]
+  },
+  {
+    "id": "006",
+    "name": "Frank",
+    "surname": "Miller",
+    "duty_counter": 1,
+    "holiday_duty_counter": 2,
+    "unit": {
+      "id": "17f330ae-6711-482c-89fc-c96df8915a9d"
+    },
+    "available_duty_types": [
+      {
+        "id": "duty_002",
+        "name": "Part-time"
+      },
+      {
+        "id": "duty_003",
+        "name": "Contractual"
+      }
+    ]
+  },
+  {
+    "id": "007",
+    "name": "Grace",
+    "surname": "Wang",
+    "duty_counter": 10,
+    "holiday_duty_counter": 0,
+    "unit": {
+      "id": "17f330ae-6711-482c-89fc-c96df8915a9d"
+    },
+    "available_duty_types": [
+      {
+        "id": "duty_001",
+        "name": "Full-time"
+      },
+      {
+        "id": "duty_002",
+        "name": "Part-time"
+      }
+    ]
+  },
+  {
+    "id": "008",
+    "name": "Hannah",
+    "surname": "Clark",
+    "duty_counter": 3,
+    "holiday_duty_counter": 1,
+    "unit": {
+      "id": "b44c4999-6d1d-45a0-a9b4-32e7cc3c5431"
+    },
+    "available_duty_types": [
+      {
+        "id": "duty_001",
+        "name": "Full-time"
+      },
+      {
+        "id": "duty_003",
+        "name": "Contractual"
+      }
+    ]
+  },
+  {
+    "id": "009",
+    "name": "Ian",
+    "surname": "Anderson",
+    "duty_counter": 7,
+    "holiday_duty_counter": 3,
+    "unit": {
+      "id": "b44c4999-6d1d-45a0-a9b4-32e7cc3c5431"
+    },
+    "available_duty_types": [
+      {
+        "id": "duty_002",
+        "name": "Part-time"
+      },
+      {
+        "id": "duty_003",
+        "name": "Contractual"
+      }
+    ]
+  },
+  {
+    "id": "010",
+    "name": "Jessica",
+    "surname": "Martinez",
+    "duty_counter": 4,
+    "holiday_duty_counter": 2,
+    "unit": {
+      "id": "b44c4999-6d1d-45a0-a9b4-32e7cc3c5431"
+    },
+    "available_duty_types": [
+      {
+        "id": "duty_001",
+        "name": "Full-time"
+      },
+      {
+        "id": "duty_003",
+        "name": "Contractual"
+      }
+    ]
+  }
+]

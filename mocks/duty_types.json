@@ -1,0 +1,26 @@
+[
+  {
+    "id": "duty_001",
+    "name": "Full-time",
+    "description": "Developing new software application",
+    "type": "everyday",
+    "options": [],
+    "index": 0
+  },
+  {
+    "id": "duty_002",
+    "name": "Part-time",
+    "description": "Marketing campaign for new product launch",
+    "type": "weekends",
+    "options": [],
+    "index": 1
+  },
+  {
+    "id": "duty_003",
+    "name": "Contractual",
+    "description": "Research and development for AI integration",
+    "type": "manual",
+    "options": [1, 5, 8, 13, 18, 23, 26],
+    "index": 2
+  }
+]

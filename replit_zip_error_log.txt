@@ -1,0 +1,11 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/nodejs-20:v18-20231211-ac14ad7","time":"2023-12-14T13:29:22Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/npm/node_global/bin/ts-node","time":"2023-12-14T13:29:22Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/npm/node_global/bin/ts-node-cwd","time":"2023-12-14T13:29:22Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/npm/node_global/bin/ts-node-esm","time":"2023-12-14T13:29:22Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/npm/node_global/bin/ts-node-script","time":"2023-12-14T13:29:22Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/npm/node_global/bin/ts-node-transpile-only","time":"2023-12-14T13:29:22Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/npm/node_global/bin/ts-script","time":"2023-12-14T13:29:22Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/npm/node_global/bin/tsc","time":"2023-12-14T13:29:22Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/npm/node_global/bin/tsserver","time":"2023-12-14T13:29:22Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/npm/node_global/lib/node_modules/ts-node/node_modules/.bin/acorn","time":"2023-12-14T13:29:23Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/uuid","time":"2023-12-14T13:29:25Z"}
